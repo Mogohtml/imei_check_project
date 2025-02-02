@@ -1,0 +1,6 @@
+Flask
+python-telegram-bot
+requests
+cachetools
+flask-restx
+pytest
