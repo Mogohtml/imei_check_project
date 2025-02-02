@@ -18,5 +18,5 @@
 
 1. Клонируем репозиторий:
    ``bash
-   git-клон https://github.com/yourusername/imei_check_project.git
+   git-клон [https://github.com/yourusername/imei_check_project.git](https://github.com/Mogohtml/imei_check_project.git)
    cd imei_check_project
